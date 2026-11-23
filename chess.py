@@ -1,3 +1,4 @@
+# v4.8c: NODE_CAP 45000, deterministic, hardened search ordering (rev2)
 j=print
 i=sorted
 h=tuple
